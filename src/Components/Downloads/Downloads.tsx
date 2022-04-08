@@ -1,4 +1,4 @@
-import icon from "../assets/Images/download.jpg";
+import icon from "../../assets/Images/download.jpg";
 
 const Download = () => {
   return (

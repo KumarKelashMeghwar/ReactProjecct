@@ -1,14 +1,18 @@
-import data from "../data.json";
+import { Key } from "react";
 import { Carousel } from "react-responsive-carousel";
 
-const Gallery = () => {
+interface Props {
+  gallery: any;
+}
+const Gallery: React.FC<Props> = ({ gallery }) => {
+  console.log(gallery)
   return (
     <div className="col-md-6">
       <Carousel autoPlay>
-        {data.gallery.map((v, i) => {
+        {gallery.map((v: string | undefined, i: Key | null | undefined) => {
           return (
             <div key={i}>
-              <img src={v} alt="image" />
+              <img src={v} alt="img" />
             </div>
           );
         })}
