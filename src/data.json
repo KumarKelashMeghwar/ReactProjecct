@@ -1,0 +1,108 @@
+{
+  "title": "Product Title",
+  "weight": "780g",
+  "measure": "2000g",
+  "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi nobis molestiae temporibus, debitis unde veniam rerum ullam? Doloribus nobis, error in eius obcaecati placeat cum laborum, eligendi sed, maxime quae? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum inventore animi debitis rem, quos iure accusantium voluptatem quae repellendus nostrum!",
+  "variant": ["x small", "small", "large"],
+  "price": "1.500,00 $ eol WWY",
+  "gallery": [
+    "https://picsum.photos/700/400?img=1",
+    "https://picsum.photos/700/400?img=2",
+    "https://picsum.photos/700/400?img=3"
+  ],
+  "features": [
+    "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Recusandae voluptatum atque, omnis quas mollitia necessitatibus. Inventore magni dicta adipisci debitis neque, autem eos non, cumque modi itaque cum cupiditate, recusandae dolorum? Culpa cum porro iste dolorum laborum optio animi atque. Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, repellat obcaecati, eveniet laboriosam explicabo modi facilis iure molestias sit doloremque suscipit ab nihil velit. Rerum nostrum debitis dignissimos quod harum.",
+    "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores, ratione!"
+  ],
+  "properties": [
+    {
+      "heading": "High Flexibility",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam asperiores, consequatur aliquam unde sunt facilis.",
+      "isActive": false
+    },
+    {
+      "heading": "A simplified software system",
+      "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit Nesciunt.",
+      "isActive": false
+    },
+    {
+      "heading": "Large Stroke",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam asperiores, consequatur aliquam unde sunt facilis.",
+      "isActive": false
+    },
+    {
+      "heading": "Large Stroke",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam asperiores, consequatur aliquam unde sunt facilis.",
+      "isActive": true
+    },
+    {
+      "heading": "Humble Display",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam asperiores, consequatur aliquam unde sunt facilis.",
+      "isActive": true
+    },
+    {
+      "heading": "Categorphic fingertips",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam asperiores, consequatur aliquam unde sunt facilis.",
+      "isActive": true
+    },
+    {
+      "heading": "Automation Tool Center Point Calculation(TCP)",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam asperiores, consequatur aliquam unde sunt facilis.",
+      "isActive": true
+    },
+    {
+      "heading": "Automatic Payload Calculations",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam asperiores, consequatur aliquam unde sunt facilis.",
+      "isActive": true
+    },
+    {
+      "heading": "Automated Depth Calculations",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam asperiores, consequatur aliquam unde.",
+      "isActive": true
+    },
+    {
+      "heading": "Integrated Software",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam asperiores, consequatur aliquam unde.",
+      "isActive": true
+    },
+    {
+      "heading": "TOR Certified",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam asperiores.",
+      "isActive": true
+    }
+  ],
+  "videos": [
+    "https://www.youtube.com/embed/D0UnqGm_miA",
+    "https://www.youtube.com/embed/D0UnqGm_miA"
+  ],
+  "specifications": [
+    {
+      "title": "Category",
+      "value": ""
+    },
+    {
+      "title": "Payload",
+      "value": "2000g"
+    },
+    {
+      "title": "Weight",
+      "value": "780g"
+    },
+    {
+      "title": "Hub",
+      "value": "110 mm"
+    },
+    {
+      "title": "Force",
+      "value": "40 n"
+    },
+    {
+      "title": "Number of griping elements",
+      "value": "2"
+    },
+    {
+      "title": "IP-Code",
+      "value": "-"
+    }
+  ]
+}

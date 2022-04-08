@@ -1,0 +1,69 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+
+@font-face {
+  font-family: StolzlBold;
+  src: url(./assets/fonts/Stolzl-Bold.ttf);
+}
+
+.stolzl-bold {
+  font-family: StolzlBold;
+}
+
+
+@font-face {
+  font-family: StolzlRegular;
+  src: url(./assets/fonts/Stolzl-Regular.ttf);
+}
+
+.stolzl-regular {
+  font-family: StolzlRegular;
+}
+
+.breadcrumbb{
+  margin-top: 10px;
+}
+.breadcrumb{
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+}
+.breadcrumb a{
+  text-decoration: none;
+  color: #000;
+}
+
+/* Crosoual CSS */
+
+.thumb{
+  width: 120px !important; 
+  padding: 0 !important;
+  margin: 0 !important;
+  margin-right: 20px !important;
+  cursor: pointer !important;
+}
+
+.thumbs-wrapper{
+  margin: 0 !important;
+  padding: 0 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  margin-top: 20px !important;
+}
+
+.thumbs-wrapper ul{
+  padding-left: 0 !important;
+}
+
+/* Clear Position */
+.clear{
+  cursor: pointer;
+}
